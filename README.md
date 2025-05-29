@@ -21,7 +21,7 @@ JavaScript | PHP | Node.js | Next.js | TypeScript | React | Git & GitHub | SQL |
 ---
 
 📫 **Conecta-te comigo**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kina-mukumba-92b404354/)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-24292e?style=flat&logo=vercel&logoColor=white)](https://teu-portfolio.com)
 
 🌍 Luanda, Angola 🇦🇴
