@@ -1,5 +1,5 @@
 <h1 align="center">Olá, mundo! 👋🏾 Eu sou o Kina João Mukumba</h1>
-<h3 align="center">🚀 Desenvolvedor Fullstack • CTO da INODEV • Fundador da KINACODE</h3>
+<h3 align="center">🚀 Desenvolvedor Fullstack • CTO da INODEV • Fundador da CODE4ALL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Transformo+ideias+em+soluções+digitais.;Desenvolvedor+Web+Fullstack.;Apaixonado+por+tecnologia+e+inovação.;Vamos+codar%2C+wey!+👨🏾‍💻🔥" alt="Typing SVG" />
