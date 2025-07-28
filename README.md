@@ -1,28 +1,56 @@
-<h1 align="center">Olá 👋🏾, sou o Kina João Mukumba</h1>
-<h3 align="center">Desenvolvedor Web Fullstack & CTO da INODEV</h3>
+<h1 align="center">Olá, mundo! 👋🏾 Eu sou o Kina João Mukumba</h1>
+<h3 align="center">🚀 Desenvolvedor Fullstack • CTO da INODEV • Fundador da KINACODE</h3>
 
-- 🔭 Atualmente estou trabalhando em: [KINACODE](https://kinacode.it.ao)
-- 🌱 Estudando: Next.js, Node.js, MySQL
-- 👯 Aberto para colaborações com projetos sociais e startups tech
-- 💬 Pergunte-me sobre: JavaScript, React, APIs, PHP
-- 📫 Contacto: [kinamukumba@gmail.com](mailto:kinamukumba@gmail.com)
-- ⚡ Curiosidade: Amo transformar ideias em software
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Transformo+ideias+em+soluções+digitais.;Desenvolvedor+Web+Fullstack.;Apaixonado+por+tecnologia+e+inovação.;Vamos+codar%2C+wey!+👨🏾‍💻🔥" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tecnologias que uso
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+### 🧠 Sobre mim
+
+- 🛠️ Stack principal: `Next.js`, `Node.js`, `MySQL`, `PHP`, `JavaScript`, `TailwindCSS`.
+- 🎓 Mentor de jovens devs e CTO da **INODEV**.
+- ✍🏾 Em constante evolução com projetos educacionais e sociais.
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinamukumba&show_icons=true&theme=tokyonight" alt="stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinamukumba&layout=compact&theme=tokyonight" alt="langs" width="47%"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,next,node,php,mysql,react,tailwind,html,css,figma,git,vscode" />
+</div>
+
+---
+
+### 📫 Fala comigo
+
+- 📧 Email: [kinamukumba@gmail.com](mailto:kinamukumba@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kina-mukumba](https://www.linkedin.com/in/kina-mukumba-602289373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinamukumba&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinamukumba&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🐍 Snake Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kinamukumba/kinamukumba/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+
+---
+
+<p align="center">
+  <b>“A tecnologia só faz sentido quando serve às pessoas.”</b><br/>
+  <i>— Kina João Mukumba</i>
 </p>
