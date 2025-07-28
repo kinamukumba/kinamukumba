@@ -1,31 +1,28 @@
-# 👋🏾 Olá, eu sou o Kina Mukumba!
+<h1 align="center">Olá 👋🏾, sou o Kina João Mukumba</h1>
+<h3 align="center">Desenvolvedor Web Fullstack & CTO da INODEV</h3>
 
-### 💻 Software Developer  
-JavaScript | PHP | Node.js | Next.js | TypeScript | React | Git & GitHub | SQL | NoSQL
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white)
+- 🔭 Atualmente estou trabalhando em: [KINACODE](https://kinacode.it.ao)
+- 🌱 Estudando: Next.js, Node.js, MySQL
+- 👯 Aberto para colaborações com projetos sociais e startups tech
+- 💬 Pergunte-me sobre: JavaScript, React, APIs, PHP
+- 📫 Contacto: [kinamukumba@gmail.com](mailto:kinamukumba@gmail.com)
+- ⚡ Curiosidade: Amo transformar ideias em software
 
 ---
 
-📫 **Conecta-te comigo**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kina-mukumba-92b404354/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-24292e?style=flat&logo=vercel&logoColor=white)](https://teu-portfolio.com)
-
-🌍 Luanda, Angola 🇦🇴
+### 🛠️ Tecnologias que uso
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 ---
 
-> “Construindo soluções reais com código limpo e propósito.” 🚀  
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kinamukumba&show_icons=true&theme=tokyonight" alt="stats" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinamukumba&layout=compact&theme=tokyonight" alt="langs" width="47%"/>
+</p>
