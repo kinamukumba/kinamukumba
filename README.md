@@ -30,26 +30,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinamukumba&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinamukumba&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🐍 Snake Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kinamukumba/kinamukumba/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-
----
-
 <p align="center">
   <b>“A tecnologia só faz sentido quando serve às pessoas.”</b><br/>
   <i>— Kina João Mukumba</i>
