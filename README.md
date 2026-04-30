@@ -19,7 +19,7 @@ Sempre aprendendo, sempre a codar.
 ### Tech Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,php,mysql,redis,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,css,ts,js,nodejs,php,mysql,redis,git,figma" />
 </div>
 
 <br/>
