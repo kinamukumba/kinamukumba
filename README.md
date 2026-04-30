@@ -1,9 +1,9 @@
-<h1 align="center">Olá, mundo! 👋🏾 Eu sou o Kina João Mukumba</h1>
+<h1 align="center">Olá, mundo! Eu sou o Kina João Mukumba</h1>
 
 <h3 align="center">Desenvolvedor Web Fullstack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=5000&pause=1500&center=true&vCenter=true&width=520&lines=Transformo+ideias+em+soluções+digitais.;Desenvolvedor+Fullstack+%7C+Next.js+%2B+Fastify.;Código+limpo.+Produto+real.;Vamos+construir+algo+incrível%3F+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=5000&pause=1500&center=true&vCenter=true&width=520&lines=Transformo+ideias+em+soluções+digitais.;Desenvolvedor+Fullstack+%7C+Next.js+%2B+Fastify.;Código+limpo.+Produto+real.;Vamos+construir+algo+incrível%3F+" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 Desenvolvedor web fullstack apaixonado por transformar ideias em soluções digitais reais.  
 Construo experiências web modernas com foco em **performance**, **usabilidade** e **código limpo**.  
-Sempre aprendendo, sempre a codar. 👨🏾‍💻
+Sempre aprendendo, sempre a codar.
 
 ---
 
