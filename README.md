@@ -1,6 +1,6 @@
 <h1 align="center">Olá, mundo! 👋🏾 Eu sou o Kina João Mukumba</h1>
 
-<h3 align="center">🚀 Desenvolvedor Web Fullstack</h3>
+<h3 align="center">Desenvolvedor Web Fullstack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=5000&pause=1500&center=true&vCenter=true&width=520&lines=Transformo+ideias+em+soluções+digitais.;Desenvolvedor+Fullstack+%7C+Next.js+%2B+Fastify.;Código+limpo.+Produto+real.;Vamos+construir+algo+incrível%3F+🔥" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 
 Desenvolvedor web fullstack apaixonado por transformar ideias em soluções digitais reais.  
 Construo experiências web modernas com foco em **performance**, **usabilidade** e **código limpo**.  
@@ -16,7 +16,7 @@ Sempre aprendendo, sempre a codar. 👨🏾‍💻
 
 ---
 
-### 🛠️ Tech Skills
+### Tech Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,git" />
@@ -39,7 +39,7 @@ Sempre aprendendo, sempre a codar. 👨🏾‍💻
 
 ---
 
-### 🤝 Bora trabalhar juntos?
+### Bora trabalhar juntos?
 
 > 💡 **Tens um projeto em mente?** Fala comigo — adoro transformar ideias em produto real.
 
@@ -49,14 +49,14 @@ Sempre aprendendo, sempre a codar. 👨🏾‍💻
 
 ---
 
-### 📫 Fala comigo
+### Fala comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kina-mukumba-602289373)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinamukumba@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
