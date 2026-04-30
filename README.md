@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Desenvolvedor Web Fullstack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3500&pause=1000&center=true&vCenter=true&width=520&lines=Transformo+ideias+em+soluções+digitais.;Desenvolvedor+Fullstack+%7C+Next.js+%2B+Fastify.;Código+limpo.+Produto+real.;Vamos+construir+algo+incrível%3F+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=5000&pause=1500&center=true&vCenter=true&width=520&lines=Transformo+ideias+em+soluções+digitais.;Desenvolvedor+Fullstack+%7C+Next.js+%2B+Fastify.;Código+limpo.+Produto+real.;Vamos+construir+algo+incrível%3F+🔥" alt="Typing SVG" />
 </p>
 
 ---
