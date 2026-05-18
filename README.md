@@ -24,7 +24,7 @@ Sempre aprendendo, sempre a codar.
 
 <br/>
 
-<div align="start" width="100%">
+<div align="center">
 
 | Tecnologia | Nível |
 |-----------|-------|
