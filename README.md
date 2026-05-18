@@ -32,6 +32,7 @@ Sempre aprendendo, sempre a codar.
 | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ⭐⭐⭐⭐ |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ⭐⭐⭐ |
 | ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white) | ⭐⭐⭐ |
+| ![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=white) | ⭐⭐⭐ |
 | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) | ⭐⭐⭐ |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐ |
 
